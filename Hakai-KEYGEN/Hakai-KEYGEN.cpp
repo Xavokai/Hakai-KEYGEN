@@ -154,7 +154,7 @@ static void screenViewFile()
 static void screenClearFile()
 {
     cls();
-    printLn("  Hakai SDK  //  Key Generator", 11);
+    printLn("  Hakai Key Generator", 11);
     printLn("  --------------------------------\n", 8);
     printLn("  Are you sure you want to clear hakai_keys.txt?", 12);
     printLn("  [Y] Yes   [Any other key] Cancel", 8);
