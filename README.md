@@ -5,6 +5,11 @@ a simple C++ console app that makes keys for Hakai SDK and other Hakai related t
 These do not generate LIVE keys for any Hakai tool.
 they are pretty much useless unless u use them for your own AUTH setup. 
 
+if u dont understand what this is some how
+
+it makes keys like  " HAKAI-XXXX-XXXX-XXXX " 
+ofc if u fork it or just download the source or what have ya, you can just edit the output.
+
 
 ---
 ## Requirements.
