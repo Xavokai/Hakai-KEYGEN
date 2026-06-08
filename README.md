@@ -1,7 +1,10 @@
 # Hakai-KEYGEN
 a simple C++ console app that makes keys for Hakai SDK and other Hakai related tools.
 
-
+### Please note
+These do not generate LIVE keys for any Hakai tool.
+they are pretty much useless unless u use them for your own AUTH setup. 
+---
 ## Requirements.
 [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
